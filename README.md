@@ -1,2 +1,1 @@
-# blockchains
-Sample Blockchain in Python
+# Sample Blockchain in Python
