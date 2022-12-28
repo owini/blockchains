@@ -22,4 +22,4 @@
 * [**TypeScript**: _Naivecoin: a tutorial for building a cryptocurrency_](https://lhartikk.github.io/)
 * [**TypeScript**: _NaivecoinStake: a tutorial for building a cryptocurrency with the Proof of Stake consensus_](https://naivecoinstake.learn.uno/)
 
-Source: How to Build X
+Blockchain projects aggregated by: build-your-own-x
