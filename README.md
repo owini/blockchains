@@ -23,6 +23,8 @@
 # Blockchain Courses
 * [MIT OpenCourseWare](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)
 * [Duke's Decentralized Finance course](https://www.coursera.org/specializations/decentralized-finance-duke)
+* [Princeton's Cryptocurrency Course](https://www.coursera.org/learn/cryptocurrency)
 * [UPenn's Fintech Certificate](https://www.coursera.org/specializations/wharton-fintech#courses)
+
 
 For more projects, check out: [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
