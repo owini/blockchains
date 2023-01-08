@@ -1,6 +1,6 @@
 <h1>Blockchain Resources and Projects</h1>
 
-- [Blockchain Overview](https://chain.link/education-hub/blockchain)
+- [Overview of Blockchain Guide](https://chain.link/education-hub/blockchain)
 - [Blockchain Developer Roadmap](https://roadmap.sh/blockchain/)
 - [Smart Contracts in Solidity Guide](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/learn-solidity-handbook/amp/)
 
