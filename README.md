@@ -2,6 +2,7 @@
 
 - [Overview of Blockchain Guide](https://chain.link/education-hub/blockchain)
 - [Blockchain Developer Roadmap](https://roadmap.sh/blockchain/)
+- [Introduction to Smart Contracts](https://chain.link/education/smart-contracts)
 - [Smart Contracts in Solidity Guide](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/learn-solidity-handbook/amp/)
 
 
