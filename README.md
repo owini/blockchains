@@ -1,7 +1,10 @@
 <h1>Blockchain Resources and Projects</h1>
 
+- [Blockchain Overview](https://chain.link/education-hub/blockchain)
 - [Blockchain Developer Roadmap](https://roadmap.sh/blockchain/)
 - [Smart Contracts in Solidity Guide](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/learn-solidity-handbook/amp/)
+
+
 # Blockchain Projects Directory
 
 * [**ATS**: _Functional Blockchain_](https://beta.observablehq.com/@galletti94/functional-blockchain)
