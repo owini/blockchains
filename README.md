@@ -37,5 +37,11 @@
 * [Princeton's Cryptocurrency Course](https://www.coursera.org/learn/cryptocurrency)
 * [UPenn's Fintech Certificate](https://www.coursera.org/specializations/wharton-fintech#courses)
 
+## [White Papers](https://www.allcryptowhitepapers.com/)
+* [Bitcoin](https://bitcoin.org/bitcoin.pdf)
+* [Ethereum](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf)
+
+* 
+
 
 Sample Code included in repo from First Blockchain in Java and Tiniest Blockchain in Python tutorials. For more projects, check out: [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
