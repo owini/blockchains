@@ -1,6 +1,6 @@
-<h1>Blockchain Resources and Projects</h1>
+<h1>Blockchain Resources and Projects 🌍🚀</h1>
 
-## Background Knowledge
+## Background Knowledge 🌟
 
 - [Overview of Blockchain Guide](https://chain.link/education-hub/blockchain)
 - [Blockchain Developer Roadmap](https://roadmap.sh/blockchain/)
@@ -9,7 +9,7 @@
 - [Basics of Ethereum](https://www.youtube.com/watch?v=NsyFGzhktYA&list=PLVP9aGDn-X0QwJVbQvuKr-zrh2_DV5M6J&index=50)
 
 
-## Blockchain Projects Directory
+## Blockchain Projects Directory 🎇
 
 * [**ATS**: _Functional Blockchain_](https://beta.observablehq.com/@galletti94/functional-blockchain)
 * [**C#**: _Programming The Blockchain in C#_](https://programmingblockchain.gitbooks.io/programmingblockchain/)
@@ -31,15 +31,15 @@
 * [**Ruby**: _Programming Blockchains Step-by-Step (Manuscripts Book Edition)_](https://github.com/yukimotopress/programming-blockchains-step-by-step)
 * [**Scala**: _How to build a simple actor-based blockchain_](https://medium.freecodecamp.org/how-to-build-a-simple-actor-based-blockchain-aac1e996c177)
 
-## Blockchain Courses
+## Blockchain Courses ✔️
 * [MIT OpenCourseWare](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/)
 * [Duke's Decentralized Finance course](https://www.coursera.org/specializations/decentralized-finance-duke)
 * [Princeton's Cryptocurrency Course](https://www.coursera.org/learn/cryptocurrency)
 * [UPenn's Fintech Certificate](https://www.coursera.org/specializations/wharton-fintech#courses)
 
-## [White Papers](https://www.allcryptowhitepapers.com/)
+## [White Papers](https://www.allcryptowhitepapers.com/) 📎
 * [Bitcoin](https://bitcoin.org/bitcoin.pdf)
 * [Ethereum](https://ethereum.org/669c9e2e2027310b6b3cdce6e1c52962/Ethereum_Whitepaper_-_Buterin_2014.pdf)
 
 
-Sample Code included in repo from First Blockchain in Java and Tiniest Blockchain in Python tutorials. For more projects, check out: [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x). :rocket:
+Sample Code included in repo from First Blockchain in Java and Tiniest Blockchain in Python tutorials. For more projects, check out: [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x). 💚
